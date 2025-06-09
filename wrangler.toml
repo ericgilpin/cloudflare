@@ -1,0 +1,3 @@
+name = "scryfall-proxy"
+main = "workers/scryfall.js"      # <‑‑ change if you move the file
+compatibility_date = "2025-06-09" # today’s date
